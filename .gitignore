@@ -1,0 +1,10 @@
+node_modules
+dist
+*.tsbuildinfo
+
+# Local-only: tool state, old prototype, and raw source images (the site uses public/img)
+/.claude
+/.impeccable
+/_old-static
+/img
+/ABOUT.txt
